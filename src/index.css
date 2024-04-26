@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  margin: 0;
+  padding: 0;
+  background-color: #394a51;
+  font-family: "Syne", "sans-serif";
+  padding: 0 5px;
+}
