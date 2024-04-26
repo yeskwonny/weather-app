@@ -8,7 +8,7 @@
 
 - [Technologies Used](#technologies-used)
 - [Features](#features)
-- [Screenshots](#screenshots)
+- [Livedemo](#livedemo)
 - [Setup](#setup)
 - [Room for Improvement](#room-for-improvement)
 - [Contact](#contact)
@@ -34,7 +34,7 @@ Communication tool:
 
 <!-- If you have screenshots you'd like to share, include them here. -->
 
-## Screenshots/ Live demo
+## Livedemo
 [LIVE DEMO](https://mapmemoir.netlify.app/)
 
 ## Setup
