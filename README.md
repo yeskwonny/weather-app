@@ -35,7 +35,7 @@ Communication tool:
 <!-- If you have screenshots you'd like to share, include them here. -->
 
 ## Livedemo
-[LIVE DEMO](https://mapmemoir.netlify.app/)
+[LIVE DEMO](https://weather-plz-app.netlify.app)
 
 ## Setup
 
