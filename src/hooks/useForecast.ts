@@ -12,7 +12,7 @@ function useForecast() {
   const getCityOption = async function (value: string) {
     try {
       const rawData = await fetch(
-        `http://api.openweathermap.org/geo/1.0/direct?q=${value.trim()}&limit=4&appid=${
+        `https://api.openweathermap.org/geo/1.0/direct?q=${value.trim()}&limit=4&appid=${
           import.meta.env.VITE_WEATHER_API_KEY
         }`
       );
