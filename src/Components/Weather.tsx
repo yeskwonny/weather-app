@@ -68,7 +68,7 @@ function Weather({ forecast }: Props) {
         </div>
       </section>
       <section className="mt-2 md:col-span-2 self-start">
-        <div className="flex gap-1 bg-[#7fa99b] bg-opacity-20 backdrop-blur-ls rounded drop-shadow-lg overflow-x-scroll mx-auto md:w-[90%]">
+        <div className="flex gap-1 bg-[#7fa99b] bg-opacity-20 backdrop-blur-ls rounded drop-shadow-lg overflow-x-scroll mx-auto md:overflow-x-auto md:w-[90%]">
           {forecast.list.map((item, index) => (
             <div
               key={index}
