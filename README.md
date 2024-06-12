@@ -34,8 +34,9 @@ Communication tool:
 
 <!-- If you have screenshots you'd like to share, include them here. -->
 
-## Livedemo
+## Live demo
 [LIVE DEMO](https://weather-plz-app.netlify.app)
+![image](https://github.com/yeskwonny/weather-app/assets/138835629/6827d4c1-0f6a-4612-825b-bb7fc80f3734)
 
 ## Setup
 
